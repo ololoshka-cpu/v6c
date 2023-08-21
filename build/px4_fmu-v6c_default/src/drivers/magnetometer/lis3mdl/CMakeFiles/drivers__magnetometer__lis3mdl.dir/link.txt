@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__magnetometer__lis3mdl.a  CMakeFiles/drivers__magnetometer__lis3mdl.dir/lis3mdl_i2c.cpp.obj CMakeFiles/drivers__magnetometer__lis3mdl.dir/lis3mdl_spi.cpp.obj CMakeFiles/drivers__magnetometer__lis3mdl.dir/lis3mdl_main.cpp.obj CMakeFiles/drivers__magnetometer__lis3mdl.dir/lis3mdl.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__magnetometer__lis3mdl.a

@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__batt_smbus.a  CMakeFiles/drivers__batt_smbus.dir/batt_smbus.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__batt_smbus.a

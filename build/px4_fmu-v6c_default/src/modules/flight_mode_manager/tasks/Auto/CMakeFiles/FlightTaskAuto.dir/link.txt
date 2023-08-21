@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libFlightTaskAuto.a  CMakeFiles/FlightTaskAuto.dir/FlightTaskAuto.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libFlightTaskAuto.a

@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libwind_estimator.a  CMakeFiles/wind_estimator.dir/WindEstimator.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libwind_estimator.a

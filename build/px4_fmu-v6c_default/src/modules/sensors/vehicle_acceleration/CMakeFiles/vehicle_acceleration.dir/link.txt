@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libvehicle_acceleration.a  CMakeFiles/vehicle_acceleration.dir/VehicleAcceleration.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libvehicle_acceleration.a

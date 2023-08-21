@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libsystemcmds__mtd.a  CMakeFiles/systemcmds__mtd.dir/mtd.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libsystemcmds__mtd.a

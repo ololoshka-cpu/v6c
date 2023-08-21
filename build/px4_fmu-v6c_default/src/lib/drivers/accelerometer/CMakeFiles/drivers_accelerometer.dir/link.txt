@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers_accelerometer.a  CMakeFiles/drivers_accelerometer.dir/PX4Accelerometer.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers_accelerometer.a

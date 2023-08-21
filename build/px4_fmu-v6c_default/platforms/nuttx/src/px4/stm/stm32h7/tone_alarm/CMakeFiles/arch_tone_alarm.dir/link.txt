@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libarch_tone_alarm.a  CMakeFiles/arch_tone_alarm.dir/ToneAlarmInterface.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libarch_tone_alarm.a

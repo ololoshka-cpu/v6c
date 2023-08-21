@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libarch_version.a  CMakeFiles/arch_version.dir/board_identity.c.obj CMakeFiles/arch_version.dir/board_mcu_version.c.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libarch_version.a

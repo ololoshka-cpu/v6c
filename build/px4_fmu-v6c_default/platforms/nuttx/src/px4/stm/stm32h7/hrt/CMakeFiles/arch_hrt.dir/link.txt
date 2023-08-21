@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libarch_hrt.a  CMakeFiles/arch_hrt.dir/hrt.c.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libarch_hrt.a

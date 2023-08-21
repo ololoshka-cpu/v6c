@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__ll40ls_pwm.a  CMakeFiles/drivers__ll40ls_pwm.dir/ll40ls.cpp.obj CMakeFiles/drivers__ll40ls_pwm.dir/LidarLitePWM.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__ll40ls_pwm.a

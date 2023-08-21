@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__magnetometer__qmc5883l.a  CMakeFiles/drivers__magnetometer__qmc5883l.dir/QMC5883L.cpp.obj CMakeFiles/drivers__magnetometer__qmc5883l.dir/qmc5883l_main.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__magnetometer__qmc5883l.a

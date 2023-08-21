@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__px4io.a  CMakeFiles/drivers__px4io.dir/px4io.cpp.obj CMakeFiles/drivers__px4io.dir/px4io_serial.cpp.obj CMakeFiles/drivers__px4io.dir/px4io_uploader.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__px4io.a

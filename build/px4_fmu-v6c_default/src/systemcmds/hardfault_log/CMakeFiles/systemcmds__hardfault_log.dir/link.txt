@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libsystemcmds__hardfault_log.a  CMakeFiles/systemcmds__hardfault_log.dir/hardfault_log.c.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libsystemcmds__hardfault_log.a

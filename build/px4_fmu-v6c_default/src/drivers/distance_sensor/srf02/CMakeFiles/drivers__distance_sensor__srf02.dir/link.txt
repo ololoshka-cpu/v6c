@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__distance_sensor__srf02.a  CMakeFiles/drivers__distance_sensor__srf02.dir/SRF02.cpp.obj CMakeFiles/drivers__distance_sensor__srf02.dir/srf02_main.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__distance_sensor__srf02.a

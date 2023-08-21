@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libarch_adc.a  CMakeFiles/arch_adc.dir/adc.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libarch_adc.a

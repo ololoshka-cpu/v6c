@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc liblaunchdetection.a  CMakeFiles/launchdetection.dir/LaunchDetector.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib liblaunchdetection.a

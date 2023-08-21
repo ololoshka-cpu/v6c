@@ -1,0 +1,13 @@
+# Target labels
+ microcdr
+# Source files and their labels
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/CMakeFiles/microcdr
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/CMakeFiles/microcdr.rule
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/CMakeFiles/microcdr-complete.rule
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/microcdr/src/microcdr-stamp/microcdr-install.rule
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/microcdr/src/microcdr-stamp/microcdr-mkdir.rule
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/microcdr/src/microcdr-stamp/microcdr-download.rule
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/microcdr/src/microcdr-stamp/microcdr-update.rule
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/microcdr/src/microcdr-stamp/microcdr-patch.rule
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/microcdr/src/microcdr-stamp/microcdr-configure.rule
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/microcdr/src/microcdr-stamp/microcdr-build.rule

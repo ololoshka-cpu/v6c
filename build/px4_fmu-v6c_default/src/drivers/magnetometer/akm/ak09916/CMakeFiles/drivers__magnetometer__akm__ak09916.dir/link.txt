@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__magnetometer__akm__ak09916.a  CMakeFiles/drivers__magnetometer__akm__ak09916.dir/AK09916.cpp.obj CMakeFiles/drivers__magnetometer__akm__ak09916.dir/ak09916_main.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__magnetometer__akm__ak09916.a

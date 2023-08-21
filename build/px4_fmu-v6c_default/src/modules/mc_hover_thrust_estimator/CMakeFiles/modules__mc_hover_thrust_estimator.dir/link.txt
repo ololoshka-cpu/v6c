@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libmodules__mc_hover_thrust_estimator.a  CMakeFiles/modules__mc_hover_thrust_estimator.dir/MulticopterHoverThrustEstimator.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libmodules__mc_hover_thrust_estimator.a

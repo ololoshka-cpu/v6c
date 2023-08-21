@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libmodules__mavlink.a  CMakeFiles/modules__mavlink.dir/modules__mavlink_unity.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libmodules__mavlink.a

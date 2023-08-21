@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__heater.a  CMakeFiles/drivers__heater.dir/heater.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__heater.a

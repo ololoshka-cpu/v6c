@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libsystemcmds__dmesg.a  CMakeFiles/systemcmds__dmesg.dir/dmesg.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libsystemcmds__dmesg.a

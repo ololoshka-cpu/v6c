@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libvehicle_magnetometer.a  CMakeFiles/vehicle_magnetometer.dir/VehicleMagnetometer.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libvehicle_magnetometer.a

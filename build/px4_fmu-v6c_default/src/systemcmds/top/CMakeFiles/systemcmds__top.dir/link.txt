@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libsystemcmds__top.a  CMakeFiles/systemcmds__top.dir/top.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libsystemcmds__top.a

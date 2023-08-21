@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libsystemlib.a  CMakeFiles/systemlib.dir/mavlink_log.cpp.obj CMakeFiles/systemlib.dir/otp.c.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libsystemlib.a

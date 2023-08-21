@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libbezier.a  CMakeFiles/bezier.dir/BezierQuad.cpp.obj CMakeFiles/bezier.dir/BezierN.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libbezier.a

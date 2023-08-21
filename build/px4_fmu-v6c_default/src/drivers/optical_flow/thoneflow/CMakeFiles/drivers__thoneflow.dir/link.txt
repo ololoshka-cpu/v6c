@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__thoneflow.a  CMakeFiles/drivers__thoneflow.dir/thoneflow.cpp.obj CMakeFiles/drivers__thoneflow.dir/thoneflow_parser.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__thoneflow.a

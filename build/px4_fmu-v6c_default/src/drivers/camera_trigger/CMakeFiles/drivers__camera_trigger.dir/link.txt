@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__camera_trigger.a  CMakeFiles/drivers__camera_trigger.dir/camera_trigger.cpp.obj CMakeFiles/drivers__camera_trigger.dir/interfaces/src/camera_interface.cpp.obj CMakeFiles/drivers__camera_trigger.dir/interfaces/src/pwm.cpp.obj CMakeFiles/drivers__camera_trigger.dir/interfaces/src/seagull_map2.cpp.obj CMakeFiles/drivers__camera_trigger.dir/interfaces/src/gpio.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__camera_trigger.a

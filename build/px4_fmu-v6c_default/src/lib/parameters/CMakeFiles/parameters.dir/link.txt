@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libparameters.a  CMakeFiles/parameters.dir/parameters.cpp.obj CMakeFiles/parameters.dir/atomic_transaction.cpp.obj CMakeFiles/parameters.dir/autosave.cpp.obj CMakeFiles/parameters.dir/param_translation.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libparameters.a

@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__magnetometer__isentek__ist8310.a  CMakeFiles/drivers__magnetometer__isentek__ist8310.dir/IST8310.cpp.obj CMakeFiles/drivers__magnetometer__isentek__ist8310.dir/ist8310_main.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__magnetometer__isentek__ist8310.a

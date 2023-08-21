@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libFlightTaskUtility.a  CMakeFiles/FlightTaskUtility.dir/Sticks.cpp.obj CMakeFiles/FlightTaskUtility.dir/StickAccelerationXY.cpp.obj CMakeFiles/FlightTaskUtility.dir/StickTiltXY.cpp.obj CMakeFiles/FlightTaskUtility.dir/StickYaw.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libFlightTaskUtility.a

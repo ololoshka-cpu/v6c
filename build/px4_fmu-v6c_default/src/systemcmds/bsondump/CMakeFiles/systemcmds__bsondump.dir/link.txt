@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libsystemcmds__bsondump.a  CMakeFiles/systemcmds__bsondump.dir/bsondump.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libsystemcmds__bsondump.a

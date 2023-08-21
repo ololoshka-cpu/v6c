@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__magnetometer__vcm1193l.a  CMakeFiles/drivers__magnetometer__vcm1193l.dir/VCM1193L.cpp.obj CMakeFiles/drivers__magnetometer__vcm1193l.dir/vcm1193l_main.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__magnetometer__vcm1193l.a

@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libarch_dshot.a  CMakeFiles/arch_dshot.dir/dshot.c.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libarch_dshot.a

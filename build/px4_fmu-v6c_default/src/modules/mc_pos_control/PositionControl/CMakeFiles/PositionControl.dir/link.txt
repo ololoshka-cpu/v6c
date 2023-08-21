@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libPositionControl.a  CMakeFiles/PositionControl.dir/ControlMath.cpp.obj CMakeFiles/PositionControl.dir/PositionControl.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libPositionControl.a

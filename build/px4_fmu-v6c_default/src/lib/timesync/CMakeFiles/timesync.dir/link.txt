@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libtimesync.a  CMakeFiles/timesync.dir/Timesync.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libtimesync.a

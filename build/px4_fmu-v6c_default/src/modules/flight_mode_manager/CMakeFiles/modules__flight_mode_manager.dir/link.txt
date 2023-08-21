@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libmodules__flight_mode_manager.a  CMakeFiles/modules__flight_mode_manager.dir/FlightModeManager.cpp.obj CMakeFiles/modules__flight_mode_manager.dir/FlightTasks_generated.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libmodules__flight_mode_manager.a

@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libarch_spi.a  CMakeFiles/arch_spi.dir/spi.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libarch_spi.a

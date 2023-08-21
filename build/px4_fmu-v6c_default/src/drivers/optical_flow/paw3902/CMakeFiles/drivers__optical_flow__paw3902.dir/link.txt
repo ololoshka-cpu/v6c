@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__optical_flow__paw3902.a  CMakeFiles/drivers__optical_flow__paw3902.dir/paw3902_main.cpp.obj CMakeFiles/drivers__optical_flow__paw3902.dir/PAW3902.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__optical_flow__paw3902.a

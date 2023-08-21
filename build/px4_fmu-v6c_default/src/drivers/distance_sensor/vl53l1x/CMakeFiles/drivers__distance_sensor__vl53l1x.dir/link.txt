@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__distance_sensor__vl53l1x.a  CMakeFiles/drivers__distance_sensor__vl53l1x.dir/vl53l1x.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__distance_sensor__vl53l1x.a

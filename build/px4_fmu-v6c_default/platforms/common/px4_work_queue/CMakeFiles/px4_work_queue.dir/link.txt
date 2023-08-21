@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libpx4_work_queue.a  CMakeFiles/px4_work_queue.dir/ScheduledWorkItem.cpp.obj CMakeFiles/px4_work_queue.dir/WorkItem.cpp.obj CMakeFiles/px4_work_queue.dir/WorkItemSingleShot.cpp.obj CMakeFiles/px4_work_queue.dir/WorkQueue.cpp.obj CMakeFiles/px4_work_queue.dir/WorkQueueManager.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libpx4_work_queue.a

@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libarch_board_hw_info.a  CMakeFiles/arch_board_hw_info.dir/board_hw_rev_ver.c.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libarch_board_hw_info.a

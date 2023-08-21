@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libbutton_publisher.a  CMakeFiles/button_publisher.dir/ButtonPublisher.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libbutton_publisher.a

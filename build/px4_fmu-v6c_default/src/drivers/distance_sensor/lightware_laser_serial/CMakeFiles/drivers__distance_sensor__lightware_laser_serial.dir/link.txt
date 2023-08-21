@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__distance_sensor__lightware_laser_serial.a  CMakeFiles/drivers__distance_sensor__lightware_laser_serial.dir/lightware_laser_serial.cpp.obj CMakeFiles/drivers__distance_sensor__lightware_laser_serial.dir/lightware_laser_serial_main.cpp.obj CMakeFiles/drivers__distance_sensor__lightware_laser_serial.dir/parser.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__distance_sensor__lightware_laser_serial.a

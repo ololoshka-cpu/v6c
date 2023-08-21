@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libplatform_gpio_mcp23009.a  CMakeFiles/platform_gpio_mcp23009.dir/mcp23009.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libplatform_gpio_mcp23009.a

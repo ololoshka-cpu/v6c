@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__ina228.a  CMakeFiles/drivers__ina228.dir/ina228_main.cpp.obj CMakeFiles/drivers__ina228.dir/ina228.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__ina228.a

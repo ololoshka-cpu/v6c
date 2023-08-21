@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__tfmini.a  CMakeFiles/drivers__tfmini.dir/TFMINI.cpp.obj CMakeFiles/drivers__tfmini.dir/tfmini_main.cpp.obj CMakeFiles/drivers__tfmini.dir/tfmini_parser.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__tfmini.a

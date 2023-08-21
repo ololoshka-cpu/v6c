@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libFlightTaskManualPosition.a  CMakeFiles/FlightTaskManualPosition.dir/FlightTaskManualPosition.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libFlightTaskManualPosition.a

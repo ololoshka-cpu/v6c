@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__rgbled.a  CMakeFiles/drivers__rgbled.dir/rgbled.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__rgbled.a

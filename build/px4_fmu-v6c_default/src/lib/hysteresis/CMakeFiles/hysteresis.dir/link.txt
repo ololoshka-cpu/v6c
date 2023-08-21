@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libhysteresis.a  CMakeFiles/hysteresis.dir/hysteresis.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libhysteresis.a

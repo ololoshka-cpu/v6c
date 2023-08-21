@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__led.a  CMakeFiles/drivers__led.dir/led.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__led.a

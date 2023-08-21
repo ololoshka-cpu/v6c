@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libsystemcmds__mft.a  CMakeFiles/systemcmds__mft.dir/mft.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libsystemcmds__mft.a

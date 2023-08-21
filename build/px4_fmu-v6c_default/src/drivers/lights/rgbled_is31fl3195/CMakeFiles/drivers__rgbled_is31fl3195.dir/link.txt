@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__rgbled_is31fl3195.a  CMakeFiles/drivers__rgbled_is31fl3195.dir/rgbled_is31fl3195.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__rgbled_is31fl3195.a

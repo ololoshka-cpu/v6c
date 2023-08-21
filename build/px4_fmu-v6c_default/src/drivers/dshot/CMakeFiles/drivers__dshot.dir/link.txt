@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__dshot.a  CMakeFiles/drivers__dshot.dir/DShot.cpp.obj CMakeFiles/drivers__dshot.dir/DShotTelemetry.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__dshot.a

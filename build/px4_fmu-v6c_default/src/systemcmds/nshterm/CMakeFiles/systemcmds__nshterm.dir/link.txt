@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libsystemcmds__nshterm.a  CMakeFiles/systemcmds__nshterm.dir/nshterm.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libsystemcmds__nshterm.a

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../platforms/nuttx/NuttX/nuttx/include/arch/inttypes.h
+
+../../platforms/nuttx/NuttX/nuttx/include/arch/limits.h
+
+../../platforms/nuttx/NuttX/nuttx/include/arch/types.h
+nuttx/config.h
+-
+
+../../platforms/nuttx/NuttX/nuttx/include/limits.h
+nuttx/config.h
+-
+arch/limits.h
+-
+
+../../platforms/nuttx/NuttX/nuttx/include/nuttx/compiler.h
+nuttx/config.h
+-
+
+../../platforms/nuttx/NuttX/nuttx/include/nuttx/config.h
+
+../../platforms/nuttx/NuttX/nuttx/include/stdint.h
+nuttx/config.h
+-
+arch/stdint.h
+-
+nuttx/compiler.h
+-
+arch/types.h
+-
+arch/inttypes.h
+-
+limits.h
+-
+
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/ROMFS/nsh_romfsimg.c
+stdint.h
+-
+

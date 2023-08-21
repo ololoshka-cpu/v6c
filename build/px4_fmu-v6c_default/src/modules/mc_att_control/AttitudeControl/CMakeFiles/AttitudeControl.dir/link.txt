@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libAttitudeControl.a  CMakeFiles/AttitudeControl.dir/AttitudeControl.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libAttitudeControl.a

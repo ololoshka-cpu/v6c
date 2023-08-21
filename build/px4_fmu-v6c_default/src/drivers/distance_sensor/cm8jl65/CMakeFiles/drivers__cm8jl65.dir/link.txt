@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__cm8jl65.a  CMakeFiles/drivers__cm8jl65.dir/CM8JL65.cpp.obj CMakeFiles/drivers__cm8jl65.dir/cm8jl65_main.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__cm8jl65.a

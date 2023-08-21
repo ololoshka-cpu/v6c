@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libarch_board_critmon.a  CMakeFiles/arch_board_critmon.dir/board_critmon.c.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libarch_board_critmon.a

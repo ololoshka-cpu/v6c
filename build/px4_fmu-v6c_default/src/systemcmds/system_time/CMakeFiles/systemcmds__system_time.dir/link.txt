@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libsystemcmds__system_time.a  CMakeFiles/systemcmds__system_time.dir/system_time.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libsystemcmds__system_time.a

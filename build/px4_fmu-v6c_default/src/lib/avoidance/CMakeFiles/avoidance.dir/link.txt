@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libavoidance.a  CMakeFiles/avoidance.dir/ObstacleAvoidance.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libavoidance.a

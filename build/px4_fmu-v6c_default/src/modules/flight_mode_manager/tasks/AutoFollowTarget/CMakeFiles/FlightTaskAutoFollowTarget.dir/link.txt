@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libFlightTaskAutoFollowTarget.a  CMakeFiles/FlightTaskAutoFollowTarget.dir/FlightTaskAutoFollowTarget.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libFlightTaskAutoFollowTarget.a

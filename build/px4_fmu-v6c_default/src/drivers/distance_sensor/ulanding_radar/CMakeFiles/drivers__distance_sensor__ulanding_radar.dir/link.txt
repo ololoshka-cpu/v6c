@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__distance_sensor__ulanding_radar.a  CMakeFiles/drivers__distance_sensor__ulanding_radar.dir/AerotennaULanding.cpp.obj CMakeFiles/drivers__distance_sensor__ulanding_radar.dir/ulanding_radar_main.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__distance_sensor__ulanding_radar.a

@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__mappydot.a  CMakeFiles/drivers__mappydot.dir/MappyDot.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__mappydot.a

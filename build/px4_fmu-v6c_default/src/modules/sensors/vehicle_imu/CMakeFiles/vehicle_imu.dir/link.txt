@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libvehicle_imu.a  CMakeFiles/vehicle_imu.dir/VehicleIMU.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libvehicle_imu.a

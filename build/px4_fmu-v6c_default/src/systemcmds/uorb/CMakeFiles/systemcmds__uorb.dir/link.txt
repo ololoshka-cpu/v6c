@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libsystemcmds__uorb.a  CMakeFiles/systemcmds__uorb.dir/uorb.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libsystemcmds__uorb.a

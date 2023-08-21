@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__ins__vectornav.a  CMakeFiles/drivers__ins__vectornav.dir/VectorNav.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__ins__vectornav.a

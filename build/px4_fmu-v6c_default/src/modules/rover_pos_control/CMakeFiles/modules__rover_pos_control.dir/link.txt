@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libmodules__rover_pos_control.a  CMakeFiles/modules__rover_pos_control.dir/RoverPositionControl.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libmodules__rover_pos_control.a

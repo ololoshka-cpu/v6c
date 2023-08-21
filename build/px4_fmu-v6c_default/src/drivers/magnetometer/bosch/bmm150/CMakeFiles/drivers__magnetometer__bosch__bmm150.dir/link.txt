@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__magnetometer__bosch__bmm150.a  CMakeFiles/drivers__magnetometer__bosch__bmm150.dir/BMM150.cpp.obj CMakeFiles/drivers__magnetometer__bosch__bmm150.dir/bmm150_main.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__magnetometer__bosch__bmm150.a

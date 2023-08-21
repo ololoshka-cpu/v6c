@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libFlightTaskManualAcceleration.a  CMakeFiles/FlightTaskManualAcceleration.dir/FlightTaskManualAcceleration.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libFlightTaskManualAcceleration.a

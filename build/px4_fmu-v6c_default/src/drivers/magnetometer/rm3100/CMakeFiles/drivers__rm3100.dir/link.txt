@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__rm3100.a  CMakeFiles/drivers__rm3100.dir/rm3100_i2c.cpp.obj CMakeFiles/drivers__rm3100.dir/rm3100_spi.cpp.obj CMakeFiles/drivers__rm3100.dir/rm3100_main.cpp.obj CMakeFiles/drivers__rm3100.dir/rm3100.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__rm3100.a

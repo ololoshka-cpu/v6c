@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libFlightTaskFailsafe.a  CMakeFiles/FlightTaskFailsafe.dir/FlightTaskFailsafe.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libFlightTaskFailsafe.a

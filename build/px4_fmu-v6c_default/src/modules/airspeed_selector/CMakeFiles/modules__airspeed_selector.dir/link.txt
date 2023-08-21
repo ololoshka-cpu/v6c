@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libmodules__airspeed_selector.a  CMakeFiles/modules__airspeed_selector.dir/airspeed_selector_main.cpp.obj CMakeFiles/modules__airspeed_selector.dir/AirspeedValidator.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libmodules__airspeed_selector.a

@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libSystemIdentification.a  CMakeFiles/SystemIdentification.dir/system_identification.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libSystemIdentification.a

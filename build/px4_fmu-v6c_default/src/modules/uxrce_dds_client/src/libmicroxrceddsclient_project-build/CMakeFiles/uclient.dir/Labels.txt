@@ -1,0 +1,13 @@
+# Target labels
+ uclient
+# Source files and their labels
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/CMakeFiles/uclient
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/CMakeFiles/uclient.rule
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/CMakeFiles/uclient-complete.rule
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/uclient-prefix/src/uclient-stamp/uclient-install.rule
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/uclient-prefix/src/uclient-stamp/uclient-mkdir.rule
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/uclient-prefix/src/uclient-stamp/uclient-download.rule
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/uclient-prefix/src/uclient-stamp/uclient-update.rule
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/uclient-prefix/src/uclient-stamp/uclient-patch.rule
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/uclient-prefix/src/uclient-stamp/uclient-configure.rule
+/home/andrey/Documents/ap/PX4-Autopilot/build/px4_fmu-v6c_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/uclient-prefix/src/uclient-stamp/uclient-build.rule

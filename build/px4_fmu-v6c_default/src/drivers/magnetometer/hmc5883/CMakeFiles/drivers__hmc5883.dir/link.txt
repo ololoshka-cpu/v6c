@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__hmc5883.a  CMakeFiles/drivers__hmc5883.dir/HMC5883.cpp.obj CMakeFiles/drivers__hmc5883.dir/hmc5883_i2c.cpp.obj CMakeFiles/drivers__hmc5883.dir/hmc5883_spi.cpp.obj CMakeFiles/drivers__hmc5883.dir/hmc5883_main.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__hmc5883.a

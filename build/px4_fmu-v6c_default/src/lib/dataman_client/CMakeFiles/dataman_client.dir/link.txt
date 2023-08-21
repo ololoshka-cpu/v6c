@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdataman_client.a  CMakeFiles/dataman_client.dir/DatamanClient.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdataman_client.a

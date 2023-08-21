@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libmathlib.a  CMakeFiles/mathlib.dir/math/test/test.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libmathlib.a

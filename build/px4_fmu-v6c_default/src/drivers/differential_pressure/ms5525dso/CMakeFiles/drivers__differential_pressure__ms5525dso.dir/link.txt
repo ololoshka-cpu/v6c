@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__differential_pressure__ms5525dso.a  CMakeFiles/drivers__differential_pressure__ms5525dso.dir/ms5525dso_main.cpp.obj CMakeFiles/drivers__differential_pressure__ms5525dso.dir/MS5525DSO.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__differential_pressure__ms5525dso.a

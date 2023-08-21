@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libsystemcmds__i2cdetect.a  CMakeFiles/systemcmds__i2cdetect.dir/i2cdetect.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libsystemcmds__i2cdetect.a

@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libled.a  CMakeFiles/led.dir/led.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libled.a

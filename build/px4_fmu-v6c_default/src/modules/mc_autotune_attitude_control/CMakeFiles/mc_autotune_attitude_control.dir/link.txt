@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libmc_autotune_attitude_control.a  CMakeFiles/mc_autotune_attitude_control.dir/mc_autotune_attitude_control.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libmc_autotune_attitude_control.a

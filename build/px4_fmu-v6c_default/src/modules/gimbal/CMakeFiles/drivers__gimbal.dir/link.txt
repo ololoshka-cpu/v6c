@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__gimbal.a  CMakeFiles/drivers__gimbal.dir/input.cpp.obj CMakeFiles/drivers__gimbal.dir/input_mavlink.cpp.obj CMakeFiles/drivers__gimbal.dir/input_rc.cpp.obj CMakeFiles/drivers__gimbal.dir/input_test.cpp.obj CMakeFiles/drivers__gimbal.dir/output.cpp.obj CMakeFiles/drivers__gimbal.dir/output_mavlink.cpp.obj CMakeFiles/drivers__gimbal.dir/output_rc.cpp.obj CMakeFiles/drivers__gimbal.dir/gimbal.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__gimbal.a

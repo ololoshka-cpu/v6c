@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__lis2mdl.a  CMakeFiles/drivers__lis2mdl.dir/lis2mdl_i2c.cpp.obj CMakeFiles/drivers__lis2mdl.dir/lis2mdl_spi.cpp.obj CMakeFiles/drivers__lis2mdl.dir/lis2mdl_main.cpp.obj CMakeFiles/drivers__lis2mdl.dir/lis2mdl.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__lis2mdl.a

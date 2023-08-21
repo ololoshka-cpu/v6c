@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__distance_sensor__teraranger.a  CMakeFiles/drivers__distance_sensor__teraranger.dir/teraranger_main.cpp.obj CMakeFiles/drivers__distance_sensor__teraranger.dir/TERARANGER.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__distance_sensor__teraranger.a

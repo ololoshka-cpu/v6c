@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libarch_board_reset.a  CMakeFiles/arch_board_reset.dir/board_reset.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libarch_board_reset.a

@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libcrc.a  CMakeFiles/crc.dir/crc.c.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libcrc.a

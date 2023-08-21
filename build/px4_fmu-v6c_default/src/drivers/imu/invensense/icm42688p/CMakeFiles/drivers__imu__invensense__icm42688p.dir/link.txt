@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__imu__invensense__icm42688p.a  CMakeFiles/drivers__imu__invensense__icm42688p.dir/icm42688p_main.cpp.obj CMakeFiles/drivers__imu__invensense__icm42688p.dir/ICM42688P.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__imu__invensense__icm42688p.a

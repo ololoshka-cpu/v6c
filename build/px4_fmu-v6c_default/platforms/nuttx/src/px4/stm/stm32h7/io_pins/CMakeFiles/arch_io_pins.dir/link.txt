@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libarch_io_pins.a  CMakeFiles/arch_io_pins.dir/input_capture.c.obj CMakeFiles/arch_io_pins.dir/io_timer.c.obj CMakeFiles/arch_io_pins.dir/pwm_servo.c.obj CMakeFiles/arch_io_pins.dir/pwm_trigger.c.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libarch_io_pins.a

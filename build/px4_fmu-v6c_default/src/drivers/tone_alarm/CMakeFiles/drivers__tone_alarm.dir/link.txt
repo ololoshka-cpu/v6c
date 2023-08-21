@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__tone_alarm.a  CMakeFiles/drivers__tone_alarm.dir/ToneAlarm.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__tone_alarm.a

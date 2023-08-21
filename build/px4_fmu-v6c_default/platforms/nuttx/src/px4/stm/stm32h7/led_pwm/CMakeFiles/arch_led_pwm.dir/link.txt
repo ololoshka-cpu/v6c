@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libarch_led_pwm.a  CMakeFiles/arch_led_pwm.dir/led_pwm.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libarch_led_pwm.a

@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libarch_px4io_serial.a  CMakeFiles/arch_px4io_serial.dir/px4io_serial.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libarch_px4io_serial.a

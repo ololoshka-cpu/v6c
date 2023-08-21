@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__smbus_sbs.a  
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__smbus_sbs.a

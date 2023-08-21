@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__device.a  CMakeFiles/drivers__device.dir/CDev.cpp.obj CMakeFiles/drivers__device.dir/nuttx/I2C.cpp.obj CMakeFiles/drivers__device.dir/nuttx/SPI.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__device.a

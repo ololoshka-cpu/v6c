@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libControlAllocation.a  CMakeFiles/ControlAllocation.dir/ControlAllocation.cpp.obj CMakeFiles/ControlAllocation.dir/ControlAllocationPseudoInverse.cpp.obj CMakeFiles/ControlAllocation.dir/ControlAllocationSequentialDesaturation.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libControlAllocation.a

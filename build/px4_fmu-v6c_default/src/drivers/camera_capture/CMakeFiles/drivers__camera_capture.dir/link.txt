@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__camera_capture.a  CMakeFiles/drivers__camera_capture.dir/camera_capture.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__camera_capture.a

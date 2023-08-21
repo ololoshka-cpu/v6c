@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__barometer__ms5611.a  CMakeFiles/drivers__barometer__ms5611.dir/ms5611_spi.cpp.obj CMakeFiles/drivers__barometer__ms5611.dir/ms5611_i2c.cpp.obj CMakeFiles/drivers__barometer__ms5611.dir/ms5611.cpp.obj CMakeFiles/drivers__barometer__ms5611.dir/ms5611_main.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__barometer__ms5611.a

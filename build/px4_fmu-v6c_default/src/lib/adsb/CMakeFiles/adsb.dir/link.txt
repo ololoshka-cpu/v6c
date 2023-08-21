@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libadsb.a  CMakeFiles/adsb.dir/AdsbConflict.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libadsb.a

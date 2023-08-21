@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libuavcan_stm32h7_driver.a  CMakeFiles/uavcan_stm32h7_driver.dir/src/uc_stm32h7_can.cpp.obj CMakeFiles/uavcan_stm32h7_driver.dir/src/uc_stm32h7_clock.cpp.obj CMakeFiles/uavcan_stm32h7_driver.dir/src/uc_stm32h7_thread.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libuavcan_stm32h7_driver.a

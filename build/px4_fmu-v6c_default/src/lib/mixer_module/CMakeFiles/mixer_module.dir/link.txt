@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libmixer_module.a  CMakeFiles/mixer_module.dir/actuator_test.cpp.obj CMakeFiles/mixer_module.dir/mixer_module.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libmixer_module.a

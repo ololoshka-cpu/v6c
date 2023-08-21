@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libfollow_target_estimator.a  CMakeFiles/follow_target_estimator.dir/TargetEstimator.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libfollow_target_estimator.a

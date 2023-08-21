@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__distance_sensor__gy_us42.a  CMakeFiles/drivers__distance_sensor__gy_us42.dir/GY_US42.cpp.obj CMakeFiles/drivers__distance_sensor__gy_us42.dir/GY_US42_main.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__distance_sensor__gy_us42.a

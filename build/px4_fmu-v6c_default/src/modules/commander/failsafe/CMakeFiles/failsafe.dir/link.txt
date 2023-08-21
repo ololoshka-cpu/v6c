@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libfailsafe.a  CMakeFiles/failsafe.dir/failsafe.cpp.obj CMakeFiles/failsafe.dir/framework.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libfailsafe.a

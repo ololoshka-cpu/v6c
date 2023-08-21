@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libterrain_estimation.a  CMakeFiles/terrain_estimation.dir/terrain_estimator.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libterrain_estimation.a

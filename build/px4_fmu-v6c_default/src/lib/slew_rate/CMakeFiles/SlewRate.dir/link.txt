@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libSlewRate.a  CMakeFiles/SlewRate.dir/dummy.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libSlewRate.a

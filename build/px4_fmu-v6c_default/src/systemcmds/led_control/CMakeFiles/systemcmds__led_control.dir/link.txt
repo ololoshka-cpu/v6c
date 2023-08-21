@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libsystemcmds__led_control.a  CMakeFiles/systemcmds__led_control.dir/led_control.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libsystemcmds__led_control.a

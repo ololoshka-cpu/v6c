@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__pga460.a  CMakeFiles/drivers__pga460.dir/pga460.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__pga460.a

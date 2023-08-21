@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__differential_pressure__sdp3x.a  CMakeFiles/drivers__differential_pressure__sdp3x.dir/sdp3x_main.cpp.obj CMakeFiles/drivers__differential_pressure__sdp3x.dir/SDP3X.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__differential_pressure__sdp3x.a

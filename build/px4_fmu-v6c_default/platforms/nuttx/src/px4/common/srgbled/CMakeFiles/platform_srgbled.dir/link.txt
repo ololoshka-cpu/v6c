@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libplatform_srgbled.a  CMakeFiles/platform_srgbled.dir/srgbled.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libplatform_srgbled.a

@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__magnetometer__lsm303agr.a  CMakeFiles/drivers__magnetometer__lsm303agr.dir/lsm303agr_main.cpp.obj CMakeFiles/drivers__magnetometer__lsm303agr.dir/LSM303AGR.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__magnetometer__lsm303agr.a

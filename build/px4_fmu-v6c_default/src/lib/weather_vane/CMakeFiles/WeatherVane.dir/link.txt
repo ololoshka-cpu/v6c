@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libWeatherVane.a  CMakeFiles/WeatherVane.dir/WeatherVane.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libWeatherVane.a

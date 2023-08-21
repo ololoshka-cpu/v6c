@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libgeofence_breach_avoidance.a  CMakeFiles/geofence_breach_avoidance.dir/geofence_breach_avoidance.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libgeofence_breach_avoidance.a

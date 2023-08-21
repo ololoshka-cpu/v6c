@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc librc.a  CMakeFiles/rc.dir/crsf.cpp.obj CMakeFiles/rc.dir/ghst.cpp.obj CMakeFiles/rc.dir/st24.cpp.obj CMakeFiles/rc.dir/sumd.cpp.obj CMakeFiles/rc.dir/sbus.cpp.obj CMakeFiles/rc.dir/dsm.cpp.obj CMakeFiles/rc.dir/common_rc.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib librc.a

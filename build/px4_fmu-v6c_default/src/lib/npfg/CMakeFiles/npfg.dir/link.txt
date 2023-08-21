@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libnpfg.a  CMakeFiles/npfg.dir/npfg.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libnpfg.a

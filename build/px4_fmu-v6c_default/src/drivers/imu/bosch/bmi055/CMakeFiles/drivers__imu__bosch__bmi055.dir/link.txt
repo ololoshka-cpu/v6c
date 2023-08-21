@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__imu__bosch__bmi055.a  CMakeFiles/drivers__imu__bosch__bmi055.dir/BMI055.cpp.obj CMakeFiles/drivers__imu__bosch__bmi055.dir/BMI055_Accelerometer.cpp.obj CMakeFiles/drivers__imu__bosch__bmi055.dir/BMI055_Gyroscope.cpp.obj CMakeFiles/drivers__imu__bosch__bmi055.dir/bmi055_main.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__imu__bosch__bmi055.a

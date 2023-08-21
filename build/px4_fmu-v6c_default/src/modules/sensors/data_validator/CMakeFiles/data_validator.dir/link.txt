@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdata_validator.a  CMakeFiles/data_validator.dir/DataValidator.cpp.obj CMakeFiles/data_validator.dir/DataValidatorGroup.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdata_validator.a

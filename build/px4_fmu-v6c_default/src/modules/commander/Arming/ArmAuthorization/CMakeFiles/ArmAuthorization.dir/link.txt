@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libArmAuthorization.a  CMakeFiles/ArmAuthorization.dir/ArmAuthorization.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libArmAuthorization.a

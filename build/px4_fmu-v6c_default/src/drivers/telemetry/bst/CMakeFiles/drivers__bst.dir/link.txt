@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__bst.a  CMakeFiles/drivers__bst.dir/bst.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__bst.a

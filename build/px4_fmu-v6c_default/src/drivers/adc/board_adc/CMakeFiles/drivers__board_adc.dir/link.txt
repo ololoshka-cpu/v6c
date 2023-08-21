@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-gcc-ar qc libdrivers__board_adc.a  CMakeFiles/drivers__board_adc.dir/ADC.cpp.obj
+/usr/bin/arm-none-eabi-gcc-ranlib libdrivers__board_adc.a
